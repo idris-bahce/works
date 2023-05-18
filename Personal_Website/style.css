@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+}
+.intro {
+  background-image: url("./images/welcome.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-clip: border-box;
+  height: 700px;
+}
+h1 {
+    color: rgb(227, 239, 250);
+    margin-top: 150px;
+    font-size: 4rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2{
+    color: aliceblue;
+    margin-top: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
