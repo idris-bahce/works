@@ -1,0 +1,51 @@
+body{
+    background-color: #011f3f;
+}
+h1{
+    text-align: center;
+    color: #FEF2BF;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3rem;
+    margin: 5%;
+}
+div{
+    margin: 10px;
+}
+.box1{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+}
+.box2{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    border-radius: 20%;    
+}
+.box3{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+}
+.box4{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+}
+.boxes1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boxes2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
